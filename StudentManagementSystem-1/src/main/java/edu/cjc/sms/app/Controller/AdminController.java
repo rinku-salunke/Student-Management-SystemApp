@@ -14,7 +14,7 @@ public class AdminController {
 	
 	@Autowired
 	StudentServiceI ssi;
-	
+	kk
 @RequestMapping("/")
 public String preLogin() {
 		return "login";
